@@ -1,0 +1,27 @@
+{
+  "name": "defund",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "prompt-sync": "^4.1.5",
+    "truffle": "^4.0.4",
+    "truffle-hdwallet-provider": "^0.0.3",
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daoready/interactive-ico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wondersoft/defund#readme"
+}
