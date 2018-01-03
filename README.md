@@ -59,6 +59,9 @@ ee2c44dd2c1ecca4).
 Finalized contract deployed on address: [0xf78764a9a8694ae96833035b4a1d8b02e2ac5fee](https://ropsten.etherscan.io/address/0xf78764a9a8694ae96833035b4a1d8b02e2ac5fee)
 with token [0xeb21473f14ed722f1e0e4477680dfae53a419d4e](https://ropsten.etherscan.io/token/0xeb21473f14ed722f1e0e4477680dfae53a419d4e)
 
+## Learning More
+
+Please visit [DAOReady.com](http://daoready.com) Web site for more information on this smart contract functionality, use case, enhancements and more!
 
 ## Information For Developers
 
