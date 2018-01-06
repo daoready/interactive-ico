@@ -48,6 +48,11 @@ InteractiveCrowdsale can work with a wide variety of crowdsale contracts with a 
 The presence of ICO token and contract is required only at time of finalisation. Before finalization
 they are optional.
 
+### CPACrowdsale
+
+CPACrowdsale is a demonstration of how decentralized reward protocol can be used with CPA offers.
+The [demo page](http://daoready.com/product/cpa-ico?aff=0x28698ed7e540B437D5D43bB7cc1a4C76a4Ab571C) shows how this
+contract can be used to track and reward traffic on ICO sale page.
 
 ## Trial on Ropsten Network
 
@@ -58,6 +63,9 @@ ee2c44dd2c1ecca4).
 
 Finalized contract deployed on address: [0xf78764a9a8694ae96833035b4a1d8b02e2ac5fee](https://ropsten.etherscan.io/address/0xf78764a9a8694ae96833035b4a1d8b02e2ac5fee)
 with token [0xeb21473f14ed722f1e0e4477680dfae53a419d4e](https://ropsten.etherscan.io/token/0xeb21473f14ed722f1e0e4477680dfae53a419d4e)
+
+CPACrowdsale deployed on [0x87c3e1587daf167e0aac99b8432df8578e307775](https://ropsten.etherscan.io/address/0x87c3e1587daf167e0aac99b8432df8578e307775).
+
 
 ## Learning More
 
